@@ -1,2 +1,2 @@
-# natty_resoruces
+# natty_resource
 personal resource
